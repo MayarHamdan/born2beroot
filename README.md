@@ -42,4 +42,18 @@ UFW provides a simple interface for firewall rules. Firewalld supports zones and
 
 VirtualBox is a general-purpose virtualization platform. UTM is commonly used for virtualization and emulation on macOS, particularly Apple Silicon.
 
+Resources
 
+Debian Documentation: https://www.debian.org/doc/
+
+OpenSSH Documentation: https://www.openssh.com/manual.html
+
+Ubuntu UFW Documentation: https://documentation.ubuntu.com/security/security-features/network/firewall/
+
+AppArmor Documentation: https://apparmor.net/
+
+VirtualBox Documentation: https://www.virtualbox.org/manual/
+
+AI Usage
+
+AI was used as a learning aid to explain Linux commands, understand security concepts, troubleshoot configuration errors, and review the project documentation. Configuration steps were performed and tested in the virtual machine.
